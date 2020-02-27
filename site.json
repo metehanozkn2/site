@@ -1,1 +1,6 @@
- {"status" : true, "durum" : "localhost,metehanozkan,netadim,tosunoglu,hnckilit,zertel"}
+{
+  "status" : true,
+  "durum" : "localhost,metehanozkan,netadim,tosunoglu,hnckilit,zertel",
+  "bildiri" :"acik",
+  "metin" : "Suanki bulunan sitedeki kodlama hakları netadim.com'a aittir. İletişim:info@netadim.com"
+ }
