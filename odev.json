@@ -1,1 +1,14 @@
-
+{
+  "type": "articles",
+  "id": "1",
+  "attributes": {
+    "title": "Örnek JSON calismasi",
+    "created": "2020-05-04T18:57:29.000Z",
+  },
+  "relationships": {
+    "author": {
+      "data": {"id": "42", "type": "people"}
+    }
+  }
+}
+ 
